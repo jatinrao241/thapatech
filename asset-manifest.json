@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thapatech/static/css/main.59de0cf2.css",
+    "main.js": "/thapatech/static/js/main.e0a549a1.js",
+    "index.html": "/thapatech/index.html",
+    "main.59de0cf2.css.map": "/thapatech/static/css/main.59de0cf2.css.map",
+    "main.e0a549a1.js.map": "/thapatech/static/js/main.e0a549a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59de0cf2.css",
+    "static/js/main.e0a549a1.js"
+  ]
+}
